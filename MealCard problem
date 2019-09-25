@@ -1,0 +1,7 @@
+Problem
+
+Design a program that uses classes to keep track of a student's food purchases at the campus cafeteria. A meal card is assigned to an individual student. When a meal card is first issued, the balance is set to the number of points. If the student does not specify the number of points, then the initial balance is set to 100 points.
+
+Points assigned to each food item are a whole number. A student can purchase additional points at any time during the semester. Every time food items are bought, points are deducted from the balance. If the balance becomes negative, the purchase of food items is not allowed.
+
+While there is more than one way to solve this problem, you are being assessed on your ability to use what you have learned so far as a programmer to come up with an efficient and effective  solution to this problem.
